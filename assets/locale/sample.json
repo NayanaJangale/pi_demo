@@ -1,0 +1,34 @@
+{
+  "file_name": "SIV 201611/2021",
+  "date": "16/04/2021",
+  "container_no": "BGN4721 1454654 11",
+  "customer_name": "John Michel",
+  "weight": "1523.250 kg",
+  "folder_path": "//d:/tally/inword/s123.png",
+  "items":[
+    {
+      "item_name": "Basmati Rice",
+      "item_qty": "10",
+      "item_wt": "50kg",
+      "item_batch_no": "BATCH16/2021"
+    },
+    {
+      "item_name": "Kolam Rice",
+      "item_qty": "15",
+      "item_wt": "75kg",
+      "item_batch_no": "BATCH17/2021"
+    },
+    {
+      "item_name": "Masoor Daal",
+      "item_qty": "10",
+      "item_wt": "500kg",
+      "item_batch_no": "BATCH16/2021"
+    },
+    {
+      "item_name": "Sessame",
+      "item_qty": "10",
+      "item_wt": "50kg",
+      "item_batch_no": "BATCH20/2021"
+    }
+  ]
+}
